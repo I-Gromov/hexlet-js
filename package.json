@@ -1,0 +1,20 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Мой первый проект на Хекслете",
+  "main": "111.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/I-Gromov/hexlet-js.git"
+  },
+  "author": "i-gromov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/I-Gromov/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/I-Gromov/hexlet-js#readme"
+}
